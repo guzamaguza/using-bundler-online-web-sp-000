@@ -7,4 +7,4 @@ Pry
 AwesomePrint
 
 
-require_relative "../bin/run.rb"
+#require_relative "../bin/run.rb"
