@@ -1,2 +1,2 @@
-require 'bundler/setup'
+require 'bundler/setup'  #loads gems first
 Bundler.require(:default, :development)
